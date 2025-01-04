@@ -4,7 +4,7 @@
 ###
 ### About Me
 - 🎓 Bachelor’s in IT from Beijing Institute of Technology
-- 💻 Passionate about AI and 5+ years of experience in software development, containerized applications, and scalable cloud solutions
+- 💻 5+ years of experience in software development and passionate about AI and , containerized applications, and scalable cloud solutions
 - 🏸 Badminton enthusiast and tech explorer
 
 ### Tech Stack
