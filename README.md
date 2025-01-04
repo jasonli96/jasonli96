@@ -1,5 +1,5 @@
 # Hi, I'm Jason Li 👋
-🚀 Computer Vision Developer | Python & JavaScript Specialist
+🚀 Computer Vision Developer | Python & JavaScript & C# & Java
 
 ### About Me
 - 🎓 Bachelor’s in IT from Beijing Institute of Technology
